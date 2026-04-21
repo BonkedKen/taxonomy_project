@@ -1,0 +1,5 @@
+sqlmodel
+fastapi
+uvicorn
+dash
+requests
