@@ -1,0 +1,77 @@
+1	|	all	|		|	synonym	|
+1	|	root	|		|	scientific name	|
+2	|	Bacteria	|	Bacteria <prokaryotes>	|	scientific name	|
+2	|	bacteria	|		|	genbank common name	|
+131567	|	cellular organisms	|		|	scientific name	|
+2759	|	Eukaryota	|		|	scientific name	|
+2759	|	eukaryotes	|		|	genbank common name	|
+33154	|	Opisthokonta	|		|	scientific name	|
+33208	|	Metazoa	|		|	scientific name	|
+33208	|	animals	|		|	genbank common name	|
+6072	|	Eumetazoa	|		|	scientific name	|
+33213	|	Bilateria	|		|	scientific name	|
+33511	|	Deuterostomia	|		|	scientific name	|
+7711	|	Chordata	|		|	scientific name	|
+7711	|	chordates	|		|	genbank common name	|
+89593	|	Craniata	|		|	scientific name	|
+7742	|	Vertebrata	|		|	scientific name	|
+7742	|	vertebrates	|		|	genbank common name	|
+7776	|	Gnathostomata	|		|	scientific name	|
+117570	|	Teleostomi	|		|	scientific name	|
+117571	|	Euteleostomi	|		|	scientific name	|
+8287	|	Sarcopterygii	|		|	scientific name	|
+1338369	|	Dipnotetrapodomorpha	|		|	scientific name	|
+32523	|	Tetrapoda	|		|	scientific name	|
+32524	|	Amniota	|		|	scientific name	|
+40674	|	Mammalia	|		|	scientific name	|
+40674	|	mammals	|		|	genbank common name	|
+32525	|	Theria	|		|	scientific name	|
+9347	|	Eutheria	|		|	scientific name	|
+9347	|	placental mammals	|		|	genbank common name	|
+1437010	|	Boreoeutheria	|		|	scientific name	|
+314146	|	Euarchontoglires	|		|	scientific name	|
+9443	|	Primates	|		|	scientific name	|
+9443	|	primates	|		|	genbank common name	|
+376913	|	Haplorrhini	|		|	scientific name	|
+314293	|	Simiiformes	|		|	scientific name	|
+9526	|	Catarrhini	|		|	scientific name	|
+314295	|	Hominoidea	|		|	scientific name	|
+9604	|	Hominidae	|		|	scientific name	|
+9604	|	great apes	|		|	common name	|
+207598	|	Homininae	|		|	scientific name	|
+9605	|	Homo	|		|	scientific name	|
+9605	|	humans	|		|	genbank common name	|
+9606	|	Homo sapiens	|		|	scientific name	|
+9606	|	human	|		|	genbank common name	|
+9606	|	man	|		|	common name	|
+63221	|	Homo sapiens neanderthalensis	|		|	scientific name	|
+63221	|	Neandertal	|		|	common name	|
+63221	|	Neanderthal	|		|	common name	|
+741158	|	Homo sapiens idaltu	|		|	scientific name	|
+741158	|	Herto man	|		|	common name	|
+9483	|	Callitrichidae	|		|	scientific name	|
+9484	|	Callitrichinae	|		|	scientific name	|
+9485	|	Saguinus	|		|	scientific name	|
+9489	|	Saguinus nigricollis	|		|	scientific name	|
+9489	|	black-mantled tamarin	|		|	common name	|
+9489	|	black-and-red tamarin	|		|	common name	|
+9527	|	Cercopithecoidea	|		|	scientific name	|
+9528	|	Cercopithecidae	|		|	scientific name	|
+9528	|	Old World monkeys	|		|	common name	|
+9529	|	Cercopithecinae	|		|	scientific name	|
+9530	|	Cercocebus	|		|	scientific name	|
+9530	|	red-capped mangabey	|		|	common name	|
+9530	|	red-crowned mangabey	|		|	genbank common name	|
+9530	|	white-collared mangabey	|		|	common name	|
+9531	|	Cercocebus atys	|		|	scientific name	|
+9531	|	sooty mangabey	|		|	genbank common name	|
+9532	|	Cercocebus galeritus	|		|	scientific name	|
+9532	|	Tana river mangabey	|		|	genbank common name	|
+9560	|	Papionini	|		|	scientific name	|
+9561	|	Mandrillus sphinx	|		|	scientific name	|
+9561	|	mandrill	|		|	genbank common name	|
+9567	|	Mandrillus	|		|	scientific name	|
+9567	|	mandrills	|		|	common name	|
+9568	|	Mandrillus leucophaeus	|		|	scientific name	|
+9568	|	drill	|		|	genbank common name	|
+9568	|	drill monkey	|		|	common name	|
